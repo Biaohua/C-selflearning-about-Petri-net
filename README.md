@@ -1,2 +1,2 @@
 # C-selflearning-about-Petri-net
-This is my petri net project 
+This is my Petri net project 
